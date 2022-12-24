@@ -2,4 +2,4 @@
 
 # flutter_firebase_login
 
-Example Flutter app built with Firebase.
+Demo Flutter app Login - SignUp with Firebase.
